@@ -1,0 +1,22 @@
+APPOPTIONS
+APPW: 800
+APPH: 600
+BUTTONH: 100
+FRAMEDELAY: 50
+BACKGROUND: imgs/background.png
+GRASS: imgs/grass.png
+MENUOPTIONS
+FONTFILE: imgs/t.ttf
+FONTSIZE: 30
+FONTCOLOR: 0x161694
+MENUBACKGROUND: imgs/menu_bg.png
+MENUBUTTON: imgs/button.png
+PAUSE: imgs/button.png "Pause"
+RESTART: imgs/button.png "Restart"
+QUIT: imgs/button.png "Quit"
+KILLCOUNT: imgs/menu_bg.png "Kills: 0"
+SCORE: imgs/menu_bg.png "Score: 0"
+TRIES: imgs/menu_bg.png "Tries: 5"
+DUCKOPTIONS
+FLYING: imgs/flying_duck.png
+DYING: imgs/dying_duck.png
